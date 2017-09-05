@@ -1,0 +1,7 @@
+@mixin commonheadfoot{
+		width: $wid;
+		height:40px;
+		text-align: center;
+		line-height:40px;
+		position:fixed
+	}
